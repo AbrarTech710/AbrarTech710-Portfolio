@@ -17,7 +17,7 @@ This portfolio showcases my projects, skills, and learning journey in technology
 
 ## My Projects
 
-### 1. Khamsat FAQ Guide
+### 1. [Khamsat FAQ Guide](Projects/Khamsat-FAQ-Guide/)
 An independent training project designed to help users understand common questions about the Khamsat platform.
 
 - **Project Type:** User Support Documentation
