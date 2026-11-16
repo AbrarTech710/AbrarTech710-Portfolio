@@ -1,5 +1,5 @@
 # Khamsat FAQ Guide
-
+![Khamsat FAQ Guide Cover](Project-Cover.png)
 ## Project Overview
 An independent educational project designed to help users understand common questions about the Khamsat platform.
 
