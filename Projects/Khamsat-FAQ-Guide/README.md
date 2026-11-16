@@ -34,3 +34,5 @@ The guide includes 15 questions and answers organized into five sections:
 Independent Training Project
 
 **Disclaimer:** This project was created for educational and practical purposes. It is not an official guide published by or affiliated with Khamsat.
+
+[← Back to Main Portfolio](../../)
